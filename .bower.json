@@ -1,0 +1,22 @@
+{
+  "name": "inspinia-asset",
+  "description": "Assets for inspinia admin panel.",
+  "keywords": [],
+  "dependencies": {
+    "font-awesome": "~4.0"
+  },
+  "license": [
+    "MIT"
+  ],
+  "ignore": [],
+  "homepage": "https://github.com/ImAnilChaudhari/inspinia-asset",
+  "_release": "4.0",
+  "_resolution": {
+    "type": "tag",
+    "tag": "4.0",
+    "commit": "67c86c03bd7011cdbbf6178365ee5beef7d99eb7"
+  },
+  "_source": "https://github.com/ImAnilChaudhari/inspinia-asset.git",
+  "_target": "4.0",
+  "_originalSource": "inspinia-asset"
+}
